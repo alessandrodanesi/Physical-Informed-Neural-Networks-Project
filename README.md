@@ -1,6 +1,5 @@
 # Physical-Informed-Neural-Networks-Project
 Use of 1D Navier-Stokes equations as constraints to Neural Networks for predicting blood
-pressure, velocity and cross sectional area for an upper extremity model.
+pressure, velocity and cross sectional area for a Y-shaped bifurcation model and a upper extremity model.
 
-The codes in this folder are referring to a Y-shaped bifurcation.
-An application to a complete upper-hand model has been extended in the corresponding folder
+Everything but "upper hand" folder is referring to the Y-shaped bifurcation model
