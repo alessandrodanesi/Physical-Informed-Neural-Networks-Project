@@ -1,0 +1,35 @@
+
+### SCRIPTS:
+
+- Y_shaped.py   train the model -> attention at the beginning. You have to choose the amount of noise and if you load a backup
+
+- Y_shaped_pinns.py   define the NN class
+
+- test.txt       contains all the L2 errors
+
+
+### Inputs:
+
+Contains input data for training and testing
+
+
+######## Figures, Results and Model
+
+Here I have the part concerning noise analysis.
+In particular I have 6 trials
+trials 1 & 2 -> for 1% of noise
+trials 3 & 4 -> for 5% of noise
+trials 5 & 6 -> for 10% of noise
+
+### Figures:
+It contains all figures for all trials. These plots are obtained adding noise to BOTH area and velocity
+
+### Model:
+It contains backups of all trials and also noise data for area and velocity
+
+### Results:
+It contains predictions (testing part) that are used for plottings
+In addition, it contains losses
+
+
+

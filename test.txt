@@ -1,0 +1,98 @@
+*** VEL ***
+
+ TRIAL1
+ L2 error in vessel 1: 0.5827016940179254
+ L2 error in vessel 2: 0.601774528507768
+ L2 error in vessel 3: 0.5729350843055879
+ 
+ TRIAL2
+ L2 error in vessel 1: 0.03944220376138417
+ L2 error in vessel 2: 0.037430983338203654
+ L2 error in vessel 3: 0.03635263550207183
+
+ TRIAL3
+ L2 error in vessel 1: 0.04658744616558399
+ L2 error in vessel 2: 0.04117513890542347
+ L2 error in vessel 3: 0.03927469287580647
+
+ TRIAL4
+ L2 error in vessel 1: 0.06495239234825087
+ L2 error in vessel 2: 0.06149447411822431
+ L2 error in vessel 3: 0.05236928215841836
+
+ TRIAL5
+ L2 error in vessel 1: 0.08459961176699324
+ L2 error in vessel 2: 0.05175257077660892
+ L2 error in vessel 3: 0.05394020902948418
+
+ TRIAL6
+ L2 error in vessel 1: 0.04517467429836805
+ L2 error in vessel 2: 0.062287560814898876
+ L2 error in vessel 3: 0.06339657306186673
+ 
+ *** AREA ***
+ 
+
+ TRIAL1
+ L2 error in vessel 1: 0.6004865981427453
+ L2 error in vessel 2: 0.4346191687938311
+ L2 error in vessel 3: 0.4139233752763668
+
+ TRIAL2
+ L2 error in vessel 1: 0.4723271034347343
+ L2 error in vessel 2: 0.2092846124658156
+ L2 error in vessel 3: 0.21641598148715374
+
+ TRIAL3
+ L2 error in vessel 1: 0.7294844262077528
+ L2 error in vessel 2: 0.6962802498213291
+ L2 error in vessel 3: 0.6582464023988449
+
+ TRIAL4
+ L2 error in vessel 1: 0.6272683084775443
+ L2 error in vessel 2: 0.6843560682616922
+ L2 error in vessel 3: 0.6422120447658898
+
+ TRIAL5
+ L2 error in vessel 1: 0.9949741595154886
+ L2 error in vessel 2: 1.0538964417102339
+ L2 error in vessel 3: 0.995749267528728
+
+ TRIAL6
+ L2 error in vessel 1: 0.7296657599639553
+ L2 error in vessel 2: 0.7349261594094946
+ L2 error in vessel 3: 0.7096293197508402
+
+ 
+ *** BOTH ***
+ 
+
+ TRIAL1
+ L2 error in vessel 1: 0.22691438304549452
+ L2 error in vessel 2: 0.17131869519231469
+ L2 error in vessel 3: 0.1766045436288042
+
+ TRIAL2
+ L2 error in vessel 1: 0.306290521741054
+ L2 error in vessel 2: 0.11935902104332817
+ L2 error in vessel 3: 0.12628067415743935
+
+ TRIAL3
+ L2 error in vessel 1: 0.7329430883847092
+ L2 error in vessel 2: 0.7226064023809057
+ L2 error in vessel 3: 0.6883894720806061
+
+ TRIAL4
+ L2 error in vessel 1: 0.7008393883962225
+ L2 error in vessel 2: 0.4800880629578126
+ L2 error in vessel 3: 0.4614527924596182
+
+ TRIAL5
+ L2 error in vessel 1: 0.7360771828728025
+ L2 error in vessel 2: 0.8093289106538211
+ L2 error in vessel 3: 0.7680087620194364
+
+ TRIAL6
+ L2 error in vessel 1: 0.9472248039400862
+ L2 error in vessel 2: 0.9353264793371502
+ L2 error in vessel 3: 0.9199028148987155
